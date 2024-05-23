@@ -1,0 +1,5 @@
+# What is this
+
+This is my first step into trying to learn about AI agents. This repo uses the
+CREWAI library paired with Ollama to create a very basic haiku maker.
+
